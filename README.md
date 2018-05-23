@@ -21,6 +21,7 @@
 | Facebook                 | [Follow me on Facebook!](https://www.facebook.com/michael.ti.bear)             |
 | Instagram                | [Check it out!](https://www.instagram.com/michaeltibear/)                      |
 | Website                  | [Everything can be found at downloadthebear.com](https://downloadthebear.com/) |
+| Github                   | [Checkout the repos!!](https://github.com/DownloadTheBearCompany)              |
 
 # What is it
 Recently, I got a [EAGLE-3 RC car][RCCar]. I admit it was quite fun. However, the
